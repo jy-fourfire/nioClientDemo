@@ -8,12 +8,12 @@ import java.net.Socket;
 /**
  * 
  * <ul>
- * <li>ÏîÄ¿Ãû³Æ£ºnioClientDemo </li>
- * <li>ÀàÃû³Æ£º  SocketClient </li>
- * <li>ÀàÃèÊö£º  ½¨Á¢Ò»¸ösocket,·Çnio¿Í·ş¶Ë </li>
- * <li>´´½¨ÈË£ºjy </li>
- * <li>´´½¨Ê±¼ä£º2015Äê3ÔÂ9ÈÕ </li>
- * <li>ĞŞ¸Ä±¸×¢£º</li>
+ * <li>é¡¹ç›®åç§°ï¼šnioClientDemo </li>
+ * <li>ç±»åç§°ï¼š  SocketClient </li>
+ * <li>ç±»æè¿°ï¼š   </li>
+ * <li>åˆ›å»ºäººï¼šjy </li>
+ * <li>åˆ›å»ºæ—¶é—´ï¼š2015å¹´3æœˆ13æ—¥ </li>
+ * <li>ä¿®æ”¹å¤‡æ³¨ï¼š</li>
  * </ul>
  */
 public class SocketClient {
