@@ -35,6 +35,7 @@ public class SocketClient {
 			if (msg.equals("bye")) {
 				break;
 			}
+			
 			System.out.println(in.readLine());
 		}
 		socket.close();
